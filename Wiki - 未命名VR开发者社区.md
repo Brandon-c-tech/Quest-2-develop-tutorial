@@ -63,14 +63,15 @@
   * 新注册账户容易被封禁，解封申诉一次之后账户会更稳定
     * 个人帐户被封：https://www.facebook.com/help/contact/logout?id=260749603972907
     * 解封验证所需要的资料: https://www.facebook.com/help/159096464162185/
-  * 开发者模式
-    * 自行创建开发者组织需信用卡验证：https://developer.oculus.com/sign-up/?locale=zh_CN
+  * Oculus开发者模式
+    * 自行创建开发者组织需银行卡验证，支持银联卡：https://developer.oculus.com/sign-up/?locale=zh_CN
     * 被现有的开发者组织邀请，仅需提供Oculus ID就可以被邀请。
 * Oculus APP
   * 需要在Google Play或中国内地以外的App Store上下载。
   * 应用安装包
   * Apple用户可以退出App Store账号，登录海外地区的App Store账号下载。
     * 注意：禁止用他人账号登陆私有设备iCloud。
+  * 可以先登录Facebook APP，再利用Facebook APP登录Oculus APP。
 * 网络环境
   * 网络环境需稳定，不能频繁跳转IP，有概率会被Facebook封号。
   * 网络设置需正确，自动获取DHCP的结果不一定正确。
@@ -139,7 +140,7 @@
     * 手动输入IP、网关、DNS服务器
 * 固件更新与手柄更新
   * 卡0%通常是网络问题
-  * 手动更新Quest 2固件（无法绕过激活）
+  * 手动更新Quest 2固件（高风险，无法绕过激活）
 * 手机APP
 
 ## 开发者模式
