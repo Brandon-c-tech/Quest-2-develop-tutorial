@@ -2,7 +2,7 @@
 
 * [介绍](README.md)
 * [快速入门](QuickStart.md)
-  * [常见问题](QA1.md)
+  * [常见问题](Chapter0/QA1.md)
 * [设备教程](SetDevice.md)
   * [基本功能]()
   * [新设备]()
