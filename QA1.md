@@ -28,6 +28,14 @@
 
   * 有时Facebook会封禁整个IP，此时需要用更换代理，使用其它IP登录或申诉。
 
+**如何下载Oculus APP？**
+
+* 需要在Google Play或外区App Store上下载。
+* [应用安装包](https://github.com/Brandon-c-tech/VR-Develop-Tutorial-CN/blob/main/Software%20source/Android/Oculus.apk)
+* Apple用户可以退出App Store账号，登录海外地区的App Store账号下载。
+  * 注意：禁止用他人账号登陆私有设备iCloud。
+* 可以先登录Facebook APP，再利用Facebook APP登录Oculus APP。
+
 **什么是“通畅”的无线网络？**
 
 * 根据国家相关法律法规，任何单位和个人不得自行建立或者使用其他信道进行国际联网。
