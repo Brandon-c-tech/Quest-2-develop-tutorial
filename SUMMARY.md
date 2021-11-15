@@ -2,7 +2,7 @@
 
 * [介绍](README.md)
 * [快速入门](QuickStart.md)
-  * [常见问题](QuickStart.md/# 常见问题)
+  * [常见问题](QuickStart.md/#常见问题)
 * [设备教程](SetDevice.md)
   * 开箱、基本功能、配件
   * 开发者模式
