@@ -7,7 +7,4 @@ Oculus Quest 2 作为一款优秀的消费级产品，或许把我们带入了�
 
 那还等什么呢？让我们拿起设备，学习开发技能，开始造作吧！
 
-* 快速入门
-* 公开教程
-* 社区规则
-* 赞助方
+点击查看：[项目Wiki](https://cy-603.gitbook.io/vr-develop-tutorial-cn/)
