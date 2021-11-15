@@ -1,7 +1,7 @@
 # Summary
 
 * [介绍](README.md)
-* [快速入门](Quick Start.md)
+* [快速入门](QuickStart.md)
 * [设备教程]()
   * 开箱、基本功能、配件
   * 开发者模式
