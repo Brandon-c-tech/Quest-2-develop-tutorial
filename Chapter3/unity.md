@@ -28,6 +28,16 @@
 
 ​		![image-20211116090624325](C:\Users\Chunyu\AppData\Roaming\Typora\typora-user-images\image-20211116090624325.png)
 
+
+
+修改编辑器：
+
+将Visual Studio Code配置为编辑器
+
+将Vim配置为编辑器
+
+
+
 Unity的官方学习资源非常强大
 
 官方教学网站：https://learn.unity.com/
